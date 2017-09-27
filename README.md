@@ -34,19 +34,19 @@
 	- 시간이 부족할 경우, 이 실습은 자습으로 넘길 가능성이 있음.
 	
 ### 참가자 준비물
-    - 노트북
-    - Azure 계정(무료 계정이든, MSDN 계정이든, 회사 계정이든)
-    - 테더링 가능한 스마트폰(네트워크 사정이 안 좋을 경우 테더링을 강추합니다)
+> 1. 노트북  
+> 2. Azure 계정(무료 계정이든, MSDN 계정이든, 회사 계정이든)  
+> 3. 테더링 가능한 스마트폰(네트워크 사정이 안 좋을 경우 테더링을 강추합니다)  
 
 
 **모든 참가자는 다음의 사항들을 반드시 본인의 노트북에 설치하고 오셔야 합니다.**
 
 #### 강좌 참여시 준비사항
-	• Visual Studio 2017 설치 (Azure 개발, ASP.NET 개발은 필수이며, 그 밖에 필요한 것 설치)
-	![images/install.png](https://github.com/taeyo/AzureAppHOL4DevCommunity/blob/master/images/install.png)
-	
-	• Visual Studio Code 설치 : https://code.visualstudio.com/
-	• Git 설치 : https://git-scm.com/
-	• Github.com 계정 생성
-	• Github Desktop 설치 : https://desktop.github.com/
-	• FTP 프로그램 설치(WinSCP 같은거): https://winscp.net/download/WinSCP-5.9.6-Setup.exe
+> - Visual Studio 2017 설치 (Azure 개발, ASP.NET 개발은 필수이며, 그 밖에 필요한 것 설치)
+>	![images/install.png](http://github.com/taeyo/AzureAppHOL4DevCommunity/blob/master/images/install.png)
+>
+> - Visual Studio Code 설치 : https://code.visualstudio.com/  
+> - Git 설치 : https://git-scm.com/  
+> - Github.com 계정 생성  
+> - Github Desktop 설치 : https://desktop.github.com/  
+> - ...
