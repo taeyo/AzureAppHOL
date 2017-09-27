@@ -8,19 +8,19 @@
 
 ## HOL(Hands-on Lab) 진행 순서
 
-    기술 세션 : Azure App Service Overview (+ 잘 모르는 Tips 대방출)
+#### 기술 세션 : Azure App Service Overview (+ 잘 모르는 Tips 대방출)
 
 - 실습 1 : App Service 생성 및 개발 실습
     - Git을 사용하여 다양한 코드 배포(HTML, ASPX, JSP 3단 변신)
     - Continous Deployment를 통해서 자동 배포
-
-    기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
 
 - 실습 2 : Java WebApp(WAR) 배포 및 운영 실습
 	- 이미 만들어져 있는 WAR 파일을 App Service에 배포
 	- 온라인 에디터로 실시간 소스 수정
 	- SCM(Kudu)을 통해서 Web App의 내부 콘솔 살펴보기
 	- WebApp의 Authentication 기능을 이용한 보안 설정
+
+#### 기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
 
 - 실습 3 : 간단한 ASP.NET Web App 구축 및 배포 (Visual Studio 사용)
 - 실습 4 : WebApp + DB로 구성된 WebApp 구축 및 배포
