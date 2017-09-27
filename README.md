@@ -1,6 +1,6 @@
 ## 제목 : 개발을 할 줄 몰라도 따라할 수 있는 Azure App Service 실습 과정
 
-### **주최** : [ASP.NET Korea User Group]([https://www.facebook.com/groups/AspxKorea/])
+### **주최** : [ASP.NET Korea User Group](https://www.facebook.com/groups/AspxKorea/)
 #### **강사** : 한국 마이크로소프트 김태영 부장 (feat. Taeyo)
 
 ### **대상** : 초, 중급 개발자(개발언어 무관)
@@ -11,7 +11,7 @@
     기술 세션 : Azure App Service Overview (+ 잘 모르는 Tips 대방출)
 
 - 실습 1 : App Service 생성 및 개발 실습
-	- Git을 사용하여 다양한 코드 배포(HTML, ASPX, JSP 3단 변신)
+    - Git을 사용하여 다양한 코드 배포(HTML, ASPX, JSP 3단 변신)
     - Continous Deployment를 통해서 자동 배포
 
     기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
@@ -43,7 +43,7 @@
 
 #### 강좌 참여시 준비사항
 	• Visual Studio 2017 설치 (Azure 개발, ASP.NET 개발은 필수이며, 그 밖에 필요한 것 설치)
-	[images/install.png](images/install.png)
+	![images/install.png](https://github.com/taeyo/AzureAppHOL4DevCommunity/blob/master/images/install.png)
 	
 	• Visual Studio Code 설치 : https://code.visualstudio.com/
 	• Git 설치 : https://git-scm.com/
