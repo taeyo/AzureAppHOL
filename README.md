@@ -42,9 +42,10 @@
 **모든 참가자는 다음의 사항들을 반드시 본인의 노트북에 설치하고 오셔야 합니다.**
 
 #### 강좌 참여시 준비사항
-> - Visual Studio 2017 설치 (Azure 개발, ASP.NET 개발은 필수이며, 그 밖에 필요한 것 설치)
->   ![http://github.com/taeyo/AzureAppHOL4DevCommunity/blob/master/images/install.png](http://github.com/taeyo/AzureAppHOL4DevCommunity/blob/master/images/install.png)
->
+> - Visual Studio 2017 설치   
+>   (빨간 박스로 표시한 Azure 개발, ASP.NET 개발은 필수이며, 그 밖에 필요한 것 설치)
+>   ![이미지](./images/install.png)
+> 
 > - Visual Studio Code 설치 : https://code.visualstudio.com/  
 > - Git 설치 : https://git-scm.com/  
 > - Github.com 계정 생성  
