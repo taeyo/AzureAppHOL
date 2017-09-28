@@ -7,6 +7,8 @@
 
 #### **강사** : 한국 마이크로소프트 김태영 부장 (feat. Taeyo)
 
+#### 실습시간(예상) : 5~7시간 
+
 ## HOL(Hands-on Lab) 진행 순서
 
 ### 기술 세션 : Azure App Service 살펴보기 (+ 잘들 모르는 Tips 방출)
