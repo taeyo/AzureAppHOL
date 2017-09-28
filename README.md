@@ -1,14 +1,16 @@
-## 제목 : 개발을 할 줄 몰라도 따라할 수 있는 Azure App Service 실습 과정
+## 제목 : Azure App Service 실습 과정  
+	(개발을 할 줄 몰라도 그런대로 따라할 수 있는) 
 
 ### **주최** : [ASP.NET Korea User Group](https://www.facebook.com/groups/AspxKorea/)
+### **대상** : 초, 중급 개발자(개발언어 무관)
+> Azure App Service를 약간이라도 사용해본 사람은 이번 실습으로 내공이 +100 되는데 제 파란이빨 마우스를 겁니다.
+
 #### **강사** : 한국 마이크로소프트 김태영 부장 (feat. Taeyo)
 
-### **대상** : 초, 중급 개발자(개발언어 무관)
-    Azure App Service를 약간이라도 사용해본 사람은 이번 실습으로 내공이 +100 되는데 제 파란이빨 마우스를 겁니다.
 
 ## HOL(Hands-on Lab) 진행 순서
 
-#### 기술 세션 : Azure App Service Overview (+ 잘 모르는 Tips 대방출)
+### 기술 세션 : Azure App Service 살펴보기 (+ 잘들 모르는 Tips 방출)
 
 - 실습 1 : App Service 생성 및 개발 실습
     - Git을 사용하여 다양한 코드 배포(HTML, ASPX, JSP 3단 변신)
@@ -20,7 +22,7 @@
 	- SCM(Kudu)을 통해서 Web App의 내부 콘솔 살펴보기
 	- WebApp의 Authentication 기능을 이용한 보안 설정
 
-#### 기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
+### 기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
 
 - 실습 3 : 간단한 ASP.NET Web App 구축 및 배포 (Visual Studio 사용)
 - 실습 4 : WebApp + DB로 구성된 WebApp 구축 및 배포
@@ -32,17 +34,18 @@
 - 실습 6 : Azure API App 및 Swagger 실습
 	- 실습 URL : https://docs.microsoft.com/en-us/azure/app-service-api/app-service-api-dotnet-get-started
 	- 시간이 부족할 경우, 이 실습은 자습으로 넘길 가능성이 있음.
-	
-### 참가자 준비물
+
+### 모든 참가자는 다음의 사항들을 반드시 본인의 노트북에 설치하고 오셔야 합니다.
+
+### 참가자 준비물 (필수)
 > 1. 노트북  
 > 2. Azure 계정(무료 계정이든, MSDN 계정이든, 회사 계정이든)  
 > 3. 테더링 가능한 스마트폰(네트워크 사정이 안 좋을 경우 테더링을 강추합니다)  
 
+> **준비물 미 준비 시에는 실습을 제대로 따라하실 수 없으며, 그 부분은 본인의 책임입니다**
 
-**모든 참가자는 다음의 사항들을 반드시 본인의 노트북에 설치하고 오셔야 합니다.**
-
-#### 강좌 참여시 준비사항
-> - Visual Studio 2017 설치   
+### 강좌 참여 시 사전 준비 및 설치 사항(필수)
+> - Visual Studio 2017 설치 (Community 버전 무관)  
 >   (빨간 박스로 표시한 Azure 개발, ASP.NET 개발은 필수이며, 그 밖에 필요한 것 설치)
 >   ![이미지](./images/install.png)
 > 
