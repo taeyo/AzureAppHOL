@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ## 제목 : Azure App Service 실습 과정  
 	(개발을 할 줄 몰라도 그런대로 따라할 수 있는) 
+=======
+## 제목 : Azure App Service 실습 과정
+	(개발을 할 줄 몰라도 따라할 수 있는)
+>>>>>>> 6b6e25f576fb601da1db94c8eb4ed83db5be920c
 
 ### **주최** : [ASP.NET Korea User Group](https://www.facebook.com/groups/AspxKorea/)
 ### **대상** : 초, 중급 개발자(개발언어 무관)
