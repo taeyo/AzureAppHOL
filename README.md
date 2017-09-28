@@ -1,4 +1,5 @@
-## 제목 : 개발을 할 줄 몰라도 따라할 수 있는 Azure App Service 실습 과정
+## 제목 : Azure App Service 실습 과정
+	(개발을 할 줄 몰라도 따라할 수 있는)
 
 ### **주최** : [ASP.NET Korea User Group](https://www.facebook.com/groups/AspxKorea/)
 #### **강사** : 한국 마이크로소프트 김태영 부장 (feat. Taeyo)
