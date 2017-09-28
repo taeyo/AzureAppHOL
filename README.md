@@ -13,7 +13,9 @@
 
 - 실습 1 : App Service 생성 및 개발 실습
     - Git을 사용하여 다양한 코드 배포(HTML, ASPX, JSP 3단 변신)
-    - Continous Deployment를 통해서 자동 배포
+	- 런타임 플랫폼 변경 및 실행
+	- 실행 관련 이슈 트러블슈팅
+    - Continous Deployment를 통한 자동 배포
 
 - 실습 2 : Java WebApp(WAR) 배포 및 운영 실습
 	- 이미 만들어져 있는 WAR 파일을 App Service에 배포
@@ -24,13 +26,14 @@
 ### 기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
 
 - 실습 3 : 간단한 ASP.NET Web App 구축 및 배포 (Visual Studio 사용)
-- 실습 4 : WebApp + DB로 구성된 WebApp 구축 및 배포
-	- (Entity Framework 사용)
+- 실습 4 : WebApp + DB로 구성된 WebApp 구축 및 배포 (Visual Studio 사용)  
+	- 소스에서는 Entity Framework를 사용하고 있으나 굳이 이해하지 않아도 실습에는 지장없음
 	- 실습 URL : https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase
 	- 시간이 부족할 경우, 이 실습은 자습으로 넘길 가능성이 있음.
 
 - 실습 5 : 배포 슬롯(Slot) 적용 방법 실습
-- 실습 6 : Azure API App 및 Swagger 실습
+
+- 실습 6 : Azure API App 및 Swagger 실습 (3-Layer Arch.)
 	- 실습 URL : https://docs.microsoft.com/en-us/azure/app-service-api/app-service-api-dotnet-get-started
 	- 시간이 부족할 경우, 이 실습은 자습으로 넘길 가능성이 있음.
 
