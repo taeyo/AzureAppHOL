@@ -24,7 +24,7 @@
 	- 온라인 에디터로 실시간 소스 수정
 	- SCM(Kudu)을 통해서 Web App의 내부 콘솔 살펴보기
 	- WebApp의 Authentication 기능을 이용한 보안 설정
-
+		- https://docs.microsoft.com/ko-kr/azure/app-service-mobile/app-service-mobile-how-to-configure-microsoft-authentication
 ### 기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
 
 - 실습 3 : 간단한 ASP.NET Web App 구축 및 배포 (Visual Studio 사용)
