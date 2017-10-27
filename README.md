@@ -28,6 +28,7 @@
 ### 기습 미니 세션 : Basic web application 아키텍처 검토 및 고려해야 할 사항.
 
 - 실습 3 : 간단한 ASP.NET Web App 구축 및 배포 (Visual Studio 사용)
+	- https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-dotnet
 - 실습 4 : WebApp + DB로 구성된 WebApp 구축 및 배포 (Visual Studio 사용)  
 	- 소스에서는 Entity Framework를 사용하고 있으나 굳이 이해하지 않아도 실습에는 지장없음
 	- 실습 URL : https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase
