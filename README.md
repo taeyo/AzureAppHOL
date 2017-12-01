@@ -19,8 +19,8 @@
 	- 실행 관련 이슈 트러블슈팅
     - Continous Deployment를 통한 자동 배포
 
-- 실습 2 : Java WebApp(WAR) 배포 및 운영 실습
-	https://github.com/Azure-Samples/app-service-web-java-get-started
+- 실습 2 : Java WebApp(WAR) 배포 및 운영 실습	 
+	- 참고 링크 : https://github.com/Azure-Samples/app-service-web-java-get-started	 
 	- 이미 만들어져 있는 WAR 파일을 App Service에 배포
 	- 온라인 에디터로 실시간 소스 수정
 	- SCM(Kudu)을 통해서 Web App의 내부 콘솔 살펴보기
